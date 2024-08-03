@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'QA Automation Engineer',
     description: 'testing',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/steven-selfie.png',
+        alt: 'Selfie in front of a sunflower field'
     },
     headerNavLinks: [
         {
