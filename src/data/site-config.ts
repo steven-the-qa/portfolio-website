@@ -56,7 +56,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Blog',
-            href: 'https://www.hashnode.com/@StevenBoutcher'
+            href: 'https://blog.stevenboutcher.com/'
         },
         {
             text: 'Newsletter',
