@@ -38,11 +38,11 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Steven',
+    title: 'Steven Boutcher',
     subtitle: 'QA Automation Engineer',
-    description: 'testing',
+    description: 'Playwright | TypeScript | React',
     image: {
-        src: '/steven-selfie.png',
+        src: '/steven-selfie',
         alt: 'Selfie in front of a sunflower field'
     },
     headerNavLinks: [
@@ -56,11 +56,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Blog',
-            href: '/blog'
+            href: 'https://www.hashnode.com/@StevenBoutcher'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Newsletter',
+            href: 'https://chasingquality.ck.page/'
         }
     ],
     footerNavLinks: [
@@ -83,24 +83,20 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://linkedin.com/in/boutchersj'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Twitter',
+            href: 'https://twitter.com/StevenBoutcher'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Welcome to my world.',
+        text: "I'm **Steven Boutcher**, a QA Automation Engineer at Immunefi. I grow and maintain our end-to-end tests to help our developers save time & avoid unwanted regressions. I also test a lot of new functionality before our users see it. After work, I like to go on adventures with my wife around Door County, Wisconsin. When I'm alone, my favorite way to pass the time is parkour down by the rocks on Lake Michigan. Our 2 black cats, Sadie & Bean, are the best of friends.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/steven-selfie.png',
+            alt: 'elfie in front of a sunflower field'
         },
         actions: [
             {
@@ -110,9 +106,9 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
+        title: 'Join my email list',
+        text: 'Daily emails Monday through Friday for navigating the QA job market.',
+        formUrl: 'https://chasingquality.ck.page/'
     },
     postsPerPage: 8,
     projectsPerPage: 8
