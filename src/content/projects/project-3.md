@@ -1,64 +1,42 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
+title: 'desktop-slinger'
+description: e2e desktop automation framework using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
+publishDate: 'July 15 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/project-3.png'
 ---
 
-![Project preview](/project-3.jpg)
+![Project preview](/project-3.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Use Playwright to test the Notion native app
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+### Introduction
 
-## Objectives
+Automate tests for your Electron apps using Playwright & TypeScript!
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+### Tech Stack
 
-## Features
+- Playwright (ElectronJS app testing support)
+- TypeScript (type safety)
+- NodeJS (writing to the file system)
+- RobotJS (Playwright doesn't do keyboard navigation well within a select menu)
 
-1. **AI-Powered Recipe Recommendations:**
+### Getting Started
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+1. [Clone this repository](https://github.com/steven-the-qa/desktop-slinger)
+2. IF ON WINDOWS (maybe just Windows 10, idk), install an extra dependency to support RobotJS keyboard commands BEFORE installing all dependencies (otherwise, [things get weird](https://github.com/octalmage/robotjs/issues/590)):
 
-2. **Ingredient Scanner and Inventory Management:**
+```bash
+npm install -g node-gyp
+```
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+3. Install the Visual Studio Tools [with the "Desktop Development with C++" workload](<https://github.com/nodejs/node-gyp#installation:~:text=Install%20Visual%20C%2B%2B%20Build%20Environment%3A%20Visual%20Studio%20Build%20Tools%20(using%20%22Visual%20C%2B%2B%20build%20tools%22%20workload)%20or%20Visual%20Studio%20Community%20(using%20the%20%22Desktop%20development%20with%20C%2B%2B%22%20workload)>) to support node-gyp
+4. To install all dependencies minus unnecessary Playwright browsers (because Electron), run:
 
-3. **Step-by-Step Cooking Guide:**
+```bash
+PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci
+```
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
-
-4. **Nutritional Insights and Meal Planning:**
-
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
-
-## Technology Stack
-
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
-
-## Outcome
-
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+4. To run tests, run `npm test` from the root directory

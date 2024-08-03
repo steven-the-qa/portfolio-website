@@ -1,64 +1,66 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+title: 'app-slinger'
+description: e2e mobile automation framework using WebdriverIO, Cucumber, TypeScript, and Appium.
+publishDate: 'July 9 2023'
 isFeatured: true
 seo:
   image:
-    src: '/project-2.jpg'
-    alt: Project preview
+    src: '/project-2.png'
+    alt: Snippet from the Azure Pipelines file where I start running the WebdriverIO tests and begin a script to manipulate user input into a runnable command
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/project-2.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Use WebdriverIO to test a cross-platform mobile app
 
-**Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+### Introduction
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
 
-## Objectives
+### Tech Stack
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+- WebdriverIO (Appium support)
+- TypeScript (type safety)
+- NodeJS (writing to the file system)
+- Cucumber (supported out-of-the-box via WebdriverIO's CLI)
+- BrowserStack (devices)
 
-## Features
+## Getting Started
 
-1. **Dynamic Destination Timelines:**
+First, make sure you have Node 16 installed on your computer. I use Node 16.15.1.
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+First, make sure to [clone the repo](https://github.com/steven-the-qa/app-slinger). Then, within the `ios` and `android` directories, run `npm install` to install dependencies.
 
-2. **Interactive Historical Events:**
+That's it! At this point, you should be able to run tests.
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+## Run Tests Locally
 
-3. **Personalized Time Travel Planner:**
+### Running all tests for either Android or iOS
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
+1. Navigate to the directory of either the `android` or `ios` project
+2. Run `npm run all` to run all tests in the project
 
-4. **Time-Port Virtual Reality Experience:**
+### Running a single test
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
+1. Navigate to the directory of either the `android` or `ios` project
+2. Run `npm run test features/{name}.feature` using the name of your feature file
 
-5. **Chronicle Explorer Blog:**
+### Running multiple tests
 
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
+1. Navigate to the directory of either the `android` or `ios` project
+2. Run `npm run test {feature_path_1} {feature_path_2} etc...`
 
-## Technology Stack
+### Run on 1 or more devices
 
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+1. Navigate to the directory of either the `android` or `ios` project
+2. DEVICE={device_name1} {device_name2} npm run test {feature_path}
 
-## Outcome
+iOS Devices:
 
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
+- iphone_12_pro_16
+- iphone_13_pro_15
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Android Devices:
+
+- pixel_6_12
+- galaxy_s21_12

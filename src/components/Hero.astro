@@ -16,7 +16,12 @@ const hero = siteConfig.hero;
                     {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                 </figure>
             )}
-            {hero.text && <div class="max-w-none prose prose-dante sm:prose-lg" set:html={marked.parse(hero.text)} />}
+            <div
+                class="max-w-none prose prose-dante sm:prose-lg"
+                set:html={marked.parse(
+                    "I'm **Steven Boutcher**, a QA community educator based in Door County, Wisconsin.\n\nCurrently, I'm the QA Automation Engineer at Immunefi where I grow our Playwright test suite and coach the team on how to write great end-to-end tests. I also get my hands dirty testing new functionality.\n\nIn my spare time, I like to create content to help QA professionals navigate the job market. I write on Twitter and LinkedIn, send daily emails, and create courses and digital products.\n\nAfter work, my wife & I like to explore the wonders of Door County: cherry-picking, meeting owls at the bird sanctuary, visiting lighthouses, and more. When I need a break, I love to bike down to the Lake Michigan shore and jump around on the big rocks. Our 2 black cats, Sadie & Bean, are the best of friends."
+                )}
+            />
             {hero.actions && hero.actions.length > 0 && (
                 <div class="flex flex-wrap gap-4">
                     {hero.actions.map((action) => (

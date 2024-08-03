@@ -1,66 +1,98 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'web-slinger'
+description: Web test automation framework using Playwright + TypeScript.
+publishDate: 'February 24, 2024'
+isFeatured: true
 seo:
   image:
-    src: '/project-1.jpg'
-    alt: Project preview
+    src: '/project-1.png'
+    alt: First test block in the web-slinger project where I test finding the T Swift album by product name and view details page
 ---
 
-![Project preview](/project-1.jpg)
+![Project preview](/project-1.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Use Playwright to find a Taylor Swift album on Amazon
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+---
 
-## Objectives
+## CI/CD
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+You can use the manual "Run Workflow" button in the "Actions" tab of the repo to run the tests from GitHub if you don't want to download the project.
 
-## Features
+Otherwise, continue to the instructions for running my solution on your machine.
 
-1. **EcoScore and Challenges:**
+## Installation
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+1. Clone this repository to your local machine using Git:
 
-2. **Personalized Eco-Goals:**
+```bash
+git clone https://github.com/boutchersj/web-slinger.git
+```
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+2. Navigate to the project directory:
 
-3. **Green Rewards Marketplace:**
+```bash
+cd web-slinger
+```
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+3. Install the project dependencies:
 
-4. **Community Hub:**
+```bash
+npm install
+```
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+## Running the Tests
 
-5. **EcoEducator AI Assistant:**
+You can run my solution using `npm test` on the **Actions** tab of the [GitHub repo](https://github.com/steven-the-qa/web-slinger/actions/workflows/playwright.yml).
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+## Cool Features
 
-## Technology Stack
+1. Page Object Model
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+   I'm doing this my own way. Playwright doesn't describe my approach in their docs, but I think mine is easier to understand.
 
-## Outcome
+   I was inspired by the way my mentor at Fetch designed the page objects in his Ruby/Appium framework. I loved his concept of "Sections" as a way to group locators for a section of the page, and "Elements" and "Messages" to declare the UI elements and the text contents within them.
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
+   The "Section" is mostly helpful for modeling UI components, but I'm demoing it here for fun.
 
-## Client Testimonial
+   ***
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+   [This](https://playwright.dev/docs/pom) is how Playwright recommends doing it.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+   They prefer to throw all their locators into the constructor, for some reason.
+
+   Other frameworks like WebdriverIO [don't seem to follow this convention](https://webdriver.io/docs/pageobjects/).
+
+2. HTML Report
+
+   This is an artifact I'm publishing in the GitHub Actions workflow after the tests finish.
+
+3. Screenshots
+
+   I'm taking a screenshot after each test and publishing it as an artifact after the tests finish.
+
+   The screenshot files are named after the name of the test after which they were taken.
+
+4. Manual & Automatic CI Trigger
+
+   The tests will automatically run when you push new code to the repo.
+
+   You can also use the manual trigger to run the tests without ever leaving GitHub.
+
+5. Mobile & Desktop Viewport Sizes
+
+   There is an environment variable named VIEWPORT_SIZE you can set when you run the tests on your local machine, like so:
+
+   ```bash
+   VIEWPORT_SIZE=min npm test
+   ```
+
+   The default is the Macbook Air viewport size (`max`). You can set it to `min` if you want to run on the iPhone 12 viewport size.
+
+6. Fixtures
+
+   Fixtures add a separation of concerns to tidy up the test files. Basically, anything that goes in a `before` or `after` hook can be moved to a fixture.
+
+   All setup and teardown is taken out of the test files and put into fixtures. This means you can write setup/teardown in 1 place and reuse it in any test file.
+
+   Read more about fixtures [here](https://playwright.dev/docs/test-fixtures#creating-a-fixture).
