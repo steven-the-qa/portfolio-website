@@ -4,7 +4,7 @@ seo:
   title: Skills
   description: A breakdown of my professional skills
   image:
-    src: '/about.jpeg'
+    src: '/steven-selfie.png'
     alt: Selfie in front of a sunflower field
 ---
 

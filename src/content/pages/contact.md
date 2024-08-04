@@ -1,12 +1,14 @@
 ---
-title: Get in touch
+title: Let's chat
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Let's chat
+  description: I'm an email or DM away.
 ---
 
-_Email:_
-Feel free to drop me an email at [steven@stevenboutcher.com](mailto:steven@stevenboutcher.com), and I'll do my best to respond as soon as possible.
+I'm an email or DM away.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com/StevenBoutcher) or [LinkedIn](https://www.linkedin.com/in/boutchersj).
+✉️ [steven@stevenboutcher.com](mailto:steven@stevenboutcher.com)
+
+🐦 [Twitter](https://twitter.com/StevenBoutcher)
+
+💼 [LinkedIn](https://www.linkedin.com/in/boutchersj)

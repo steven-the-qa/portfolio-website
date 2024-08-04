@@ -1,6 +1,6 @@
 ---
 title: 'desktop-slinger'
-description: e2e desktop automation framework using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
+description: e2e desktop automation framework using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS.
 publishDate: 'July 15 2023'
 isFeatured: true
 seo:
@@ -16,6 +16,10 @@ seo:
 
 Automate tests for your Electron apps using Playwright & TypeScript!
 
+### GitHub Repo
+
+https://github.com/steven-the-qa/desktop-slinger
+
 ### Tech Stack
 
 - Playwright (ElectronJS app testing support)
@@ -25,7 +29,7 @@ Automate tests for your Electron apps using Playwright & TypeScript!
 
 ### Getting Started
 
-1. [Clone this repository](https://github.com/steven-the-qa/desktop-slinger)
+1. Clone the repository
 2. IF ON WINDOWS (maybe just Windows 10, idk), install an extra dependency to support RobotJS keyboard commands BEFORE installing all dependencies (otherwise, [things get weird](https://github.com/octalmage/robotjs/issues/590)):
 
 ```bash

@@ -17,6 +17,10 @@ seo:
 
 Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
 
+## GitHub Repo
+
+https://github.com/steven-the-qa/app-slinger
+
 ### Tech Stack
 
 - WebdriverIO (Appium support)
@@ -27,9 +31,9 @@ Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
 
 ## Getting Started
 
-First, make sure you have Node 16 installed on your computer. I use Node 16.15.1.
-
-First, make sure to [clone the repo](https://github.com/steven-the-qa/app-slinger). Then, within the `ios` and `android` directories, run `npm install` to install dependencies.
+1. Install Node 16 or higher
+2. Clone the repo
+3. From the `ios` and `android` directories, run `npm install` to install dependencies
 
 That's it! At this point, you should be able to run tests.
 

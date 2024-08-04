@@ -7,8 +7,18 @@ const { href, class: className, ...props } = Astro.props;
 
 const { pathname } = Astro.url;
 const isActive = href === pathname || href === pathname.replace(/\/$/, '');
+const isLink = href ? true : false;
 ---
 
-<a class:list={[className, { 'underline underline-offset-2 decoration-1': isActive }]} href={href} {...props}>
-    <slot />
-</a>
+{
+    isLink ? (
+        <a class:list={[className, { 'underline underline-offset-2 decoration-1': isActive }]} href={href} {...props}>
+            <slot />
+        </a>
+    ) : (
+        // Separators like •
+        <div>
+            <slot />
+        </div>
+    )
+}

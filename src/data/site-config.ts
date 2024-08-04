@@ -1,5 +1,3 @@
-import { marked } from 'marked';
-
 export type Image = {
     src: string;
     alt?: string;
@@ -9,6 +7,7 @@ export type Image = {
 export type Link = {
     text: string;
     href: string;
+    target?: string;
 };
 
 export type Hero = {
@@ -61,9 +60,26 @@ const siteConfig: SiteConfig = {
             href: '/skills'
         },
         {
+            text: 'Contact',
+            href: '/contact'
+        },
+        {
+            text: '•',
+            href: ''
+        },
+        {
             text: 'Newsletter',
-            href: '#subscribe-form'
-        }
+            href: 'https://chasingquality.ck.page/',
+            target: '_blank'
+        },
+        {
+            text: 'Community',
+            href: '/community'
+        },
+        {
+            text: 'Store',
+            href: '/store'
+        },
     ],
     footerNavLinks: [
         {
@@ -78,7 +94,14 @@ const siteConfig: SiteConfig = {
             text: 'Skills',
             href: '/skills'
         },
-
+        {
+            text: 'Community',
+            href: '/community'
+        },
+        {
+            text: 'Store',
+            href: '/store'
+        }
     ],
     socialLinks: [
         {

@@ -15,6 +15,10 @@ seo:
 
 ---
 
+## GitHub Repo
+
+https://github.com/steven-the-qa/web-slinger
+
 ## CI/CD
 
 You can use the manual "Run Workflow" button in the "Actions" tab of the repo to run the tests from GitHub if you don't want to download the project.
@@ -26,7 +30,7 @@ Otherwise, continue to the instructions for running my solution on your machine.
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/boutchersj/web-slinger.git
+git clone https://github.com/steven-the-qa/web-slinger.git
 ```
 
 2. Navigate to the project directory:
