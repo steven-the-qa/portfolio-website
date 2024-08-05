@@ -44,8 +44,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'QA Automation Engineer',
     description: 'Writing the code devs don\'t want to write.',
     image: {
-        src: '/steven-selfie',
-        alt: 'Selfie in front of a sunflower field'
+        src: '/honeyz-selfie',
+        alt: 'Selfie with my wife on a hiking trail in the fall'
     },
     headerNavLinks: [
         {
@@ -125,8 +125,8 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Welcome to my world.',
         image: {
-            src: '/steven-selfie.png',
-            alt: 'elfie in front of a sunflower field'
+            src: '/honeyz-selfie.png',
+            alt: 'Selfie with my wife on a hiking trail in the fall'
         },
         actions: [
             {
