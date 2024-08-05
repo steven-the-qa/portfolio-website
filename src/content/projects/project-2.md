@@ -1,6 +1,6 @@
 ---
 title: 'app-slinger'
-description: e2e mobile automation framework using WebdriverIO, Cucumber, TypeScript, and Appium.
+description: Mobile test automation using WebdriverIO, Cucumber, TypeScript, and Appium.
 publishDate: 'July 9 2023'
 isFeatured: true
 seo:

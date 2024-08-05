@@ -8,7 +8,7 @@ seo:
     alt: Selfie in front of a sunflower field
 ---
 
-![Alt text for image](/steven-selfie.png)
+![Alt text for image](/wizard.jpeg)
 
 ## QA Automation
 

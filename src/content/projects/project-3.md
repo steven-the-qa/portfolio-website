@@ -1,6 +1,6 @@
 ---
 title: 'desktop-slinger'
-description: e2e desktop automation framework using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS.
+description: Native test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS.
 publishDate: 'July 15 2023'
 isFeatured: true
 seo:
