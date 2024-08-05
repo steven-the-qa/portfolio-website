@@ -18,7 +18,8 @@ export type Hero = {
 };
 
 export type Subscribe = {
-    title?: string;
+    cta?: string;
+    newsletter?: string;
     text?: string;
     formUrl: string;
 };
@@ -135,8 +136,9 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Join Test Quest',
-        text: "I'll send you daily emails (Mon-Fri) for navigating the QA job market.",
+        cta: 'Join',
+        newsletter: 'Test Quest',
+        text: "Daily emails for the QA job hunter seeking a competitive edge.",
         formUrl: 'https://app.convertkit.com/forms/6178332/subscriptions'
     },
     projectsPerPage: 4
