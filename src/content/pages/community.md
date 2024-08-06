@@ -30,12 +30,16 @@ Add TypeScript support for BrowserStack debug features
 
 ### Non-Coding Tech Careers
 
+Most people think about breaking into tech and immediately think they need to learn how to code. I got together with a few friends on Tech Twitter so we could lead a discussion about non-coding career options.
+
 <a href="https://x.com/i/spaces/1zqJVqvZgwVGB/peek" target="_blank" rel="noopener noreferrer">Audio Recording</a>
 <img alt="ADPList 1000 Mentorship Minutes Achievement" src="/non_coding_tech_careers_space.jpeg" style="width: 60%" />
 
 ## _Newsletters_
 
 ### Test Quest
+
+Most of the DMs I get from QA professionals are about how to navigate the job market. So I made a newsletter.
 
 <a href="https://chasingquality.ck.page/" target="_blank" rel='noopener noreferrer'>Sign up for Test Quest</a>
 ![Test Quest](/test_quest_newsletter.png)
@@ -44,20 +48,26 @@ Add TypeScript support for BrowserStack debug features
 
 ### ADPList
 
+I wanted to offer my QA expertise for free to the QA community. I didn't realize I'd end up meeting people from all around the world.
+
 <a href="https://adplist.org/mentors/steven-boutcher" target="_blank" rel='noopener noreferrer'>ADPList Profile</a>
 
 ![ADPList 1000 Mentorship Minutes Achievement](/1000_mentorship_minutes.png)
 
 <section style="height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/reviews?src=steven-boutcher" title="All Reviews" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
 
-## _Interviews/Features_
+## _Exposure_
 
 ### HeyTaco (blog)
+
+HeyTaco CRO Una Japundza interviewed me about a course I launched on Udemy.
 
 <a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">View article</a>
 ![HeyTaco interview article header](/heytaco_interview.png)
 
 ### Software Testing Weekly (newsletter)
+
+My blog posts have been mentioned in a popular QA newsletter.
 
 - <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://blog.stevenboutcher.com/zero-to-manual-qa-roadmap?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_185" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
   ![Zoom-in on Issue 185 where I'm featured](/stw_issue_185.png)
