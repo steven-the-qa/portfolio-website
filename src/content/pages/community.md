@@ -35,10 +35,14 @@ Add TypeScript support for BrowserStack debug features
 
 ## _Newsletters_
 
-<a href="https://chasingquality.ck.page/" target="_blank" rel='noopener noreferrer'>Test Quest</a>
+### Test Quest
+
+<a href="https://chasingquality.ck.page/" target="_blank" rel='noopener noreferrer'>Sign up for Test Quest</a>
 ![Test Quest](/test_quest_newsletter.png)
 
 ## _1:1 Mentoring_
+
+### ADPList
 
 <a href="https://adplist.org/mentors/steven-boutcher" target="_blank" rel='noopener noreferrer'>ADPList Profile</a>
 
@@ -53,7 +57,7 @@ Add TypeScript support for BrowserStack debug features
 <a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">View article</a>
 ![HeyTaco interview article header](/heytaco_interview.png)
 
-## Software Testing Weekly (newsletter)
+### Software Testing Weekly (newsletter)
 
 - <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://blog.stevenboutcher.com/zero-to-manual-qa-roadmap?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_185" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
   ![Zoom-in on Issue 185 where I'm featured](/stw_issue_185.png)
@@ -61,7 +65,7 @@ Add TypeScript support for BrowserStack debug features
 - <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://blog.stevenboutcher.com/you-should-be-using-data-testid?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_223" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
   ![Zoom-in on Issue 223 where I'm featured](/stw_issue_223.png)
 
-## Rock n' Road to Success (podcast)
+### Rock n' Road to Success (podcast)
 
 **Recording coming soon...**
 
