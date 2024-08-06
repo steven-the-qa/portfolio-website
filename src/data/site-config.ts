@@ -41,7 +41,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Steven Boutcher',
-    subtitle: 'QA Automation Engineer',
+    subtitle: 'QA Automation Engineer | Content Writer | Job Search Mentor',
     description: 'Writing the code devs don\'t want to write.',
     image: {
         src: '/honeyz-selfie',
@@ -61,8 +61,9 @@ const siteConfig: SiteConfig = {
             href: '/skills'
         },
         {
-            text: 'Contact',
-            href: '/contact'
+            text: 'Resume',
+            href: '/Steven_Boutcher_Resume.pdf',
+            target: '_blank'
         },
         {
             text: '•',
@@ -123,7 +124,6 @@ const siteConfig: SiteConfig = {
         },
     ],
     hero: {
-        title: 'Welcome to my world.',
         image: {
             src: '/honeyz-selfie.png',
             alt: 'Selfie with my wife on a hiking trail in the fall'
@@ -131,7 +131,8 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: 'https://linkedin.com/in/boutchersj',
+                target: '_blank'
             }
         ]
     },
