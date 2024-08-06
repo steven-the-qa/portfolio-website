@@ -3,9 +3,6 @@ title: Community
 seo:
   title: Community
   description: Ways I've contributed to the QA community
-  # image:
-  #   src: '/wizard.jpeg'
-  #   alt: Selfie in front of a sunflower field
 ---
 
 <!-- ![Alt text for image](/wizard.jpeg) -->

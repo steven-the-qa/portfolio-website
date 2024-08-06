@@ -79,8 +79,8 @@ const siteConfig: SiteConfig = {
             href: '/community'
         },
         {
-            text: 'Store',
-            href: '/store'
+            text: 'Resources',
+            href: '/resources'
         },
     ],
     footerNavLinks: [
@@ -101,8 +101,8 @@ const siteConfig: SiteConfig = {
             href: '/community'
         },
         {
-            text: 'Store',
-            href: '/store'
+            text: 'Resources',
+            href: '/resources'
         }
     ],
     socialLinks: [
