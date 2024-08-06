@@ -46,6 +46,25 @@ Add TypeScript support for BrowserStack debug features
 
 <section style="height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/reviews?src=steven-boutcher" title="All Reviews" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
 
+## _Interviews/Features_
+
+### HeyTaco (blog)
+
+<a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">View article</a>
+![HeyTaco interview article header](/heytaco_interview.png)
+
+## Software Testing Weekly (newsletter)
+
+- <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://blog.stevenboutcher.com/zero-to-manual-qa-roadmap?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_185" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
+  ![Zoom-in on Issue 185 where I'm featured](/stw_issue_185.png)
+
+- <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://blog.stevenboutcher.com/you-should-be-using-data-testid?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_223" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
+  ![Zoom-in on Issue 223 where I'm featured](/stw_issue_223.png)
+
+## Rock n' Road to Success (podcast)
+
+**Recording coming soon...**
+
 ## _Conference Talks_
 
 ### DevFest WI 2024 - "One Step Behind You"
