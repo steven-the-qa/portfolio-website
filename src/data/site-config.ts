@@ -41,7 +41,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Steven Boutcher',
-    subtitle: 'QA Automation Engineer | Content Writer | Job Search Mentor',
+    subtitle: 'QA Automation Engineer | Job Search Mentor',
     description: 'Writing the code devs don\'t want to write.',
     image: {
         src: '/honeyz-selfie',
