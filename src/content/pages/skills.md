@@ -10,7 +10,7 @@ seo:
 
 ![Alt text for image](/wizard.jpeg)
 
-## QA Automation
+## _QA Automation_
 
 I specialize in building end-to-end test automation solutions from scratch.
 
@@ -18,11 +18,11 @@ Web apps, APIs, native apps, mobile apps, I do it all. I enjoy using my superpow
 
 My preferred stack is **Playwright** and **TypeScript**, but I've also worked with **WebdriverIO**, **appium**, and **pytest**, among others.
 
-## DevOps
+## _DevOps_
 
 On the DevOps side of QA, I've used solutions like **Azure DevOps Pipelines** and **GitHub Actions** to build pipelines that deliver a top-notch test-running & test-debugging experience via **bash** scripts, pipeline variables, and artifact uploads.
 
-## Web Development
+## _Web Development_
 
 I learned full-stack web development using self-paced resources like freeCodeCamp, Scrimba, and Udemy back in 2017-2019.
 
@@ -32,12 +32,12 @@ I used **React** to build a tool that generated fake receipt images. Last time I
 
 Aside from building internal web apps, my web dev skills have come in handy for adding test ids, fixing small bugs, and reviewing PRs. I'm also familiar with **Vue**, **Svelte**, and **Astro** from personal projects.
 
-## Human Languages
+## _Human Languages_
 
 - English
 - Spanish
 
-## Programming Languages
+## _Programming Languages_
 
 - JavaScript
 - TypeScript
