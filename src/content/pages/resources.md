@@ -3,12 +3,12 @@ title: Resources
 seo:
   title: Resources
   description: A collection of my products & services
-  # image:
-  #   src: '/wizard.jpeg'
-  #   alt: Selfie in front of a sunflower field
+  image:
+    src: '/resources_hero.jpeg'
+    alt: Gift box in a techno background, black & white filter
 ---
 
-<!-- ![Alt text for image](/wizard.jpeg) -->
+![Gift box in a techno background, black & white filter](/resources_hero.jpeg)
 
 ## _QA_
 

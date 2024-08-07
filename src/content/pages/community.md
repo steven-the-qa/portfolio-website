@@ -29,7 +29,7 @@ As someone whose journey had been significantly helped by mentorship, I wanted t
 
 In January 2023, thanks to <a href="https://youtu.be/XgAMayF-JZY?si=Lzp0MRcSnt93srJn" target="_blank" rel="noopener noreferrer">a Dan Koe video</a>, I found out there's a whole community of content creators using education as an online business model, helping people who are "one or two steps behind them." It was exactly what I was looking for, but I wasn't sure where to start. I sat on the idea for months.
 
-In August 2023, I took the leap. I started experimenting with ways to productize and share my QA knowledge. I've been involved in the community ever since.
+In August 2023, I took the leap. I started experimenting with ways to <a href="/resources">productize</a> and share my QA knowledge. I've been involved in the community ever since.
 
 <h2 id="section-1"><em>Open Source Contributions</em></h2>
 
