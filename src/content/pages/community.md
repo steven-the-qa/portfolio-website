@@ -55,7 +55,7 @@ Most people think about breaking into tech and immediately think they need to le
 
 Most of the DMs I get from QA professionals are about how to navigate the job market. So I made a newsletter.
 
-<a href="https://chasingquality.ck.page/" target="_blank" rel='noopener noreferrer'>Sign up for Test Quest</a>
+<a href="https://chasingquality.ck.page/profile" target="_blank" rel='noopener noreferrer'>View Test Quest Archive</a>
 ![Test Quest](/test_quest_newsletter.png)
 
 <h2 id="section-4"><em>1:1 Mentoring</em></h2>

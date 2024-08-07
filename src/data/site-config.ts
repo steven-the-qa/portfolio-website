@@ -70,11 +70,6 @@ const siteConfig: SiteConfig = {
             href: ''
         },
         {
-            text: 'Newsletter',
-            href: 'https://chasingquality.ck.page/',
-            target: '_blank'
-        },
-        {
             text: 'Community',
             href: '/community'
         },
@@ -117,10 +112,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: 'https://blog.stevenboutcher.com/'
-        },
-        {
-            text: 'Newsletter',
-            href: 'https://chasingquality.ck.page/'
         },
     ],
     hero: {
