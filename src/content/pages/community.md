@@ -3,9 +3,12 @@ title: Community
 seo:
   title: Community
   description: Ways I've contributed to the QA community
+  image:
+    src: '/community_hero.jpeg'
+    alt: 2 adventurers in the polar wilderness, 1 leaning over a rock ledge of ancient city ruins, extending a ladder down to help the other adventurer up
 ---
 
-<!-- ![Alt text for image](/wizard.jpeg) -->
+![2 adventurers in the polar wilderness, 1 leaning over a rock ledge of ancient city ruins, extending a ladder down to help the other adventurer up](/community_hero.jpeg)
 
 When I started my first QA job in 2020, I knew nothing. It's only thanks to my teammates and managers that I learned to be the QA I am today.
 

@@ -8,7 +8,7 @@ seo:
     alt: Selfie in front of a sunflower field
 ---
 
-![Alt text for image](/wizard.jpeg)
+![wizard arm cloaked in a starry robe, holding a wand which glows at the tip](/wizard.jpeg)
 
 ## _QA Automation_
 
