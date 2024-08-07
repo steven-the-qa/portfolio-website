@@ -10,6 +10,17 @@ seo:
 
 ![2 adventurers in the polar wilderness, 1 leaning over a rock ledge of ancient city ruins, extending a ladder down to help the other adventurer up](/community_hero.jpeg)
 
+## Table of Contents
+
+- [Open Source Contributions](#section-1)
+- [Twitter Spaces](#section-2)
+- [Newsletters](#section-3)
+- [1:1 Mentoring](#section-4)
+- [Exposure](#section-5)
+- [Conference Talks](#section-6)
+
+---
+
 When I started my first QA job in 2020, I knew nothing. It's only thanks to my teammates and managers that I learned to be the QA I am today.
 
 In 2021, I had the chance to mentor other QA within the company as part of an internal training initiative. This was the "spark" for me.
@@ -20,7 +31,7 @@ In January 2023, thanks to <a href="https://youtu.be/XgAMayF-JZY?si=Lzp0MRcSnt93
 
 In August 2023, I took the leap. I started experimenting with ways to productize and share my QA knowledge. I've been involved in the community ever since.
 
-## _Open-Source Contributions_
+<h2 id="section-1"><em>Open Source Contributions</em></h2>
 
 ### WebdriverIO
 
@@ -29,7 +40,7 @@ Add TypeScript support for BrowserStack debug features
 <a href="https://github.com/webdriverio/webdriverio/pull/10236" target="_blank">Pull Request</a>
 ![Pull Request Summary](/wdio_open_source.png)
 
-## _Twitter Spaces_
+<h2 id="section-2"><em>Twitter Spaces</em></h2>
 
 ### Non-Coding Tech Careers
 
@@ -38,7 +49,7 @@ Most people think about breaking into tech and immediately think they need to le
 <a href="https://x.com/i/spaces/1zqJVqvZgwVGB/peek" target="_blank" rel="noopener noreferrer">Audio Recording</a>
 <img alt="ADPList 1000 Mentorship Minutes Achievement" src="/non_coding_tech_careers_space.jpeg" style="width: 60%" />
 
-## _Newsletters_
+<h2 id="section-3"><em>Newsletters</em></h2>
 
 ### Test Quest
 
@@ -47,7 +58,7 @@ Most of the DMs I get from QA professionals are about how to navigate the job ma
 <a href="https://chasingquality.ck.page/" target="_blank" rel='noopener noreferrer'>Sign up for Test Quest</a>
 ![Test Quest](/test_quest_newsletter.png)
 
-## _1:1 Mentoring_
+<h2 id="section-4"><em>1:1 Mentoring</em></h2>
 
 ### ADPList
 
@@ -59,7 +70,7 @@ I wanted to offer my QA expertise for free to the QA community. I didn't realize
 
 <section style="height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/reviews?src=steven-boutcher" title="All Reviews" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
 
-## _Exposure_
+<h2 id="section-5"><em>Exposure</em></h2>
 
 ### HeyTaco (blog)
 
@@ -82,7 +93,7 @@ My blog posts have been mentioned in a popular QA newsletter.
 
 **Recording coming soon...**
 
-## _Conference Talks_
+<h2 id="section-6"><em>Conference Talks</em></h2>
 
 ### DevFest WI 2024 - "One Step Behind You"
 
