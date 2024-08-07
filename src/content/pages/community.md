@@ -37,7 +37,7 @@ In August 2023, I took the leap. I started experimenting with ways to productize
 
 Add TypeScript support for BrowserStack debug features
 
-<a href="https://github.com/webdriverio/webdriverio/pull/10236" target="_blank">Pull Request</a>
+<a href="https://github.com/webdriverio/webdriverio/pull/10236" target="_blank">View pull request</a>
 ![Pull Request Summary](/wdio_open_source.png)
 
 <h2 id="section-2"><em>Twitter Spaces</em></h2>
@@ -46,7 +46,7 @@ Add TypeScript support for BrowserStack debug features
 
 Most people think about breaking into tech and immediately think they need to learn how to code. I got together with a few friends on Tech Twitter so we could lead a discussion about non-coding career options.
 
-<a href="https://x.com/i/spaces/1zqJVqvZgwVGB/peek" target="_blank" rel="noopener noreferrer">Audio Recording</a>
+<a href="https://x.com/i/spaces/1zqJVqvZgwVGB/peek" target="_blank" rel="noopener noreferrer">View recording</a>
 <img alt="ADPList 1000 Mentorship Minutes Achievement" src="/non_coding_tech_careers_space.jpeg" style="width: 60%" />
 
 <h2 id="section-3"><em>Newsletters</em></h2>
@@ -55,7 +55,7 @@ Most people think about breaking into tech and immediately think they need to le
 
 Most of the DMs I get from QA professionals are about how to navigate the job market. So I made a newsletter.
 
-<a href="https://chasingquality.ck.page/profile" target="_blank" rel='noopener noreferrer'>View Test Quest Archive</a>
+<a href="https://chasingquality.ck.page/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
 ![Test Quest](/test_quest_newsletter.png)
 
 <h2 id="section-4"><em>1:1 Mentoring</em></h2>
@@ -64,7 +64,7 @@ Most of the DMs I get from QA professionals are about how to navigate the job ma
 
 I wanted to offer my QA expertise for free to the QA community. I didn't realize I'd end up meeting people from all around the world.
 
-<a href="https://adplist.org/mentors/steven-boutcher" target="_blank" rel='noopener noreferrer'>ADPList Profile</a>
+<a href="https://adplist.org/mentors/steven-boutcher" target="_blank" rel='noopener noreferrer'>View mentor profile</a>
 
 ![ADPList 1000 Mentorship Minutes Achievement](/1000_mentorship_minutes.png)
 
@@ -97,6 +97,6 @@ My blog posts have been mentioned in a popular QA newsletter.
 
 ### DevFest WI 2024 - "One Step Behind You"
 
-<a href="https://www.devfestwi.com/2024/schedule" target="_blank" rel="noopener noreferrer">Schedule</a>
+<a href="https://www.devfestwi.com/2024/schedule" target="_blank" rel="noopener noreferrer">View conference schedule</a>
 
 **Slides & recording available sometime after August 22, 2024**
