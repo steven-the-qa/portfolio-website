@@ -19,7 +19,9 @@ Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
 
 ## GitHub Repo
 
-https://github.com/steven-the-qa/app-slinger
+<a href="https://github.com/steven-the-qa/app_slinger" target="_blank" rel='noopener noreferrer'>
+   https://github.com/steven-the-qa/app_slinger
+</a>
 
 ### Tech Stack
 

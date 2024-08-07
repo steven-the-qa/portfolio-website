@@ -17,7 +17,9 @@ seo:
 
 ## GitHub Repo
 
-https://github.com/steven-the-qa/web-slinger
+<a href="https://github.com/steven-the-qa/web-slinger" target="_blank" rel='noopener noreferrer'>
+   https://github.com/steven-the-qa/web-slinger
+</a>
 
 ## CI/CD
 

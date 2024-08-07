@@ -18,7 +18,9 @@ Automate tests for your Electron apps using Playwright & TypeScript!
 
 ### GitHub Repo
 
-https://github.com/steven-the-qa/desktop-slinger
+<a href="https://github.com/steven-the-qa/desktop-slinger" target="_blank" rel='noopener noreferrer'>
+    https://github.com/steven-the-qa/desktop-slinger
+</a>
 
 ### Tech Stack
 
