@@ -10,7 +10,16 @@ seo:
 
 ![Gift box in a techno background, black & white filter](/resources_hero.jpeg)
 
-## _QA_
+## Table of Contents
+
+- [QA](#section-1)
+- [Job Hunting](#section-2)
+- [Leadership](#section-3)
+- [Mentoring](#section-4)
+
+---
+
+<h2 id="section-1"><em>QA</em></h2>
 
 ### Indie QA Starter Kit
 
@@ -20,7 +29,7 @@ seo:
 
 ---
 
-## _Job Hunting_
+<h2 id="section-2"><em>Job Hunting</em></h2>
 
 ### QA Job Magnet
 
@@ -54,7 +63,7 @@ seo:
 
 ---
 
-## _Leadership_
+<h2 id="section-3"><em>Leadership</em></h2>
 
 ### QA Top Performer Playbook
 
@@ -64,7 +73,7 @@ seo:
 
 ---
 
-## _Mentoring_
+<h2 id="section-4"><em>Mentoring</em></h2>
 
 ### Resume Feedback Template
 
