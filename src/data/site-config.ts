@@ -17,13 +17,6 @@ export type Hero = {
     actions?: Link[];
 };
 
-export type Subscribe = {
-    cta?: string;
-    newsletter?: string;
-    text?: string;
-    formUrl: string;
-};
-
 export type SiteConfig = {
     logo?: Image;
     title: string;
@@ -34,7 +27,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
     postsPerPage?: number;
     projectsPerPage?: number;
 };
@@ -126,12 +118,6 @@ const siteConfig: SiteConfig = {
                 target: '_blank'
             }
         ]
-    },
-    subscribe: {
-        cta: 'Join',
-        newsletter: 'Test Quest',
-        text: "Daily emails for the QA job hunter seeking a competitive edge.",
-        formUrl: 'https://app.convertkit.com/forms/6178332/subscriptions'
     },
     projectsPerPage: 4
 };

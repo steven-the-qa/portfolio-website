@@ -6,7 +6,6 @@ import Hero from '../components/Hero.astro';
 import ProjectPreview from '../components/ProjectPreview.astro';
 import siteConfig from '../data/site-config';
 import { sortItemsByDateDesc } from '../utils/data-utils';
-import Subscribe from '../components/Subscribe.astro';
 
 const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
@@ -27,5 +26,4 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
             </div>
         )
     }
-    <Subscribe class="my-16 sm:my-24" />
 </BaseLayout>
