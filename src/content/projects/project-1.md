@@ -1,12 +1,12 @@
 ---
-title: 'web-slinger'
-description: Web test automation framework using Playwright + TypeScript.
+title: 'web-automation-template'
+description: Web test automation framework using Playwright + TypeScript
 publishDate: 'February 24, 2024'
 isFeatured: true
 seo:
   image:
     src: '/project-1.png'
-    alt: First test block in the web-slinger project where I test finding the T Swift album by product name and view details page
+    alt: First test block in the web-automation-template project where I test finding the T Swift album by product name and view details page
 ---
 
 ![Project preview](/project-1.png)
@@ -17,8 +17,8 @@ seo:
 
 ## GitHub Repo
 
-<a href="https://github.com/steven-the-qa/web-slinger" target="_blank" rel='noopener noreferrer'>
-   https://github.com/steven-the-qa/web-slinger
+<a href="https://github.com/steven-the-qa/web-automation-template" target="_blank" rel='noopener noreferrer'>
+   https://github.com/steven-the-qa/web-automation-template
 </a>
 
 ## CI/CD
@@ -32,13 +32,13 @@ Otherwise, continue to the instructions for running my solution on your machine.
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/steven-the-qa/web-slinger.git
+git clone https://github.com/steven-the-qa/web-automation-template.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd web-slinger
+cd web-automation-template
 ```
 
 3. Install the project dependencies:
@@ -49,7 +49,7 @@ npm install
 
 ## Running the Tests
 
-You can run my solution using `npm test` on the **Actions** tab of the [GitHub repo](https://github.com/steven-the-qa/web-slinger/actions/workflows/playwright.yml).
+You can run my solution using `npm test` on the **Actions** tab of the [GitHub repo](https://github.com/steven-the-qa/web-automation-template/actions/workflows/playwright.yml).
 
 ## Cool Features
 

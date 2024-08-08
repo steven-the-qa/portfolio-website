@@ -1,6 +1,6 @@
 ---
-title: 'app-slinger'
-description: Mobile test automation using WebdriverIO, Cucumber, TypeScript, and Appium.
+title: 'mobile-automation-template'
+description: Mobile test automation using WebdriverIO, Cucumber, TypeScript, and Appium
 publishDate: 'July 9 2023'
 isFeatured: true
 seo:
@@ -11,19 +11,19 @@ seo:
 
 ![Project preview](/project-2.png)
 
-## Use WebdriverIO to test a cross-platform mobile app
+# Use WebdriverIO to test a cross-platform mobile app
 
-### Introduction
+## Introduction
 
 Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
 
 ## GitHub Repo
 
-<a href="https://github.com/steven-the-qa/app_slinger" target="_blank" rel='noopener noreferrer'>
-   https://github.com/steven-the-qa/app_slinger
+<a href="https://github.com/steven-the-qa/mobile-automation-template" target="_blank" rel='noopener noreferrer'>
+   https://github.com/steven-the-qa/mobile-automation-template
 </a>
 
-### Tech Stack
+## Tech Stack
 
 - WebdriverIO (Appium support)
 - TypeScript (type safety)

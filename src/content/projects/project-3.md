@@ -1,6 +1,6 @@
 ---
-title: 'desktop-slinger'
-description: Native test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS.
+title: 'native-automation-template'
+description: Native test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
 publishDate: 'July 15 2023'
 isFeatured: true
 seo:
@@ -10,26 +10,26 @@ seo:
 
 ![Project preview](/project-3.png)
 
-## Use Playwright to test the Notion native app
+# Use Playwright to test the Notion native app
 
-### Introduction
+## Introduction
 
 Automate tests for your Electron apps using Playwright & TypeScript!
 
-### GitHub Repo
+## GitHub Repo
 
-<a href="https://github.com/steven-the-qa/desktop-slinger" target="_blank" rel='noopener noreferrer'>
-    https://github.com/steven-the-qa/desktop-slinger
+<a href="https://github.com/steven-the-qa/native-automation-template" target="_blank" rel='noopener noreferrer'>
+    https://github.com/steven-the-qa/native-automation-template
 </a>
 
-### Tech Stack
+## Tech Stack
 
 - Playwright (ElectronJS app testing support)
 - TypeScript (type safety)
 - NodeJS (writing to the file system)
 - RobotJS (Playwright doesn't do keyboard navigation well within a select menu)
 
-### Getting Started
+## Getting Started
 
 1. Clone the repository
 2. IF ON WINDOWS (maybe just Windows 10, idk), install an extra dependency to support RobotJS keyboard commands BEFORE installing all dependencies (otherwise, [things get weird](https://github.com/octalmage/robotjs/issues/590)):
