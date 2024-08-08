@@ -76,7 +76,7 @@ I wanted to offer my QA expertise for free to the QA community. I didn't realize
 
 HeyTaco CRO Una Japundza interviewed me about a course I launched on Udemy.
 
-<a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">View article</a>
+<a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">Read article</a>
 ![HeyTaco interview article header](/heytaco_interview.png)
 
 ### Software Testing Weekly (newsletter)
@@ -91,7 +91,10 @@ My blog posts have been mentioned in a popular QA newsletter.
 
 ### Rock n' Road to Success (podcast)
 
-**Recording coming soon...**
+Gabe interviewed me about my 5-year journey from Walgreens cashier to QA Automation Engineer.
+
+<a href="https://www.youtube.com/watch?v=zhThFYZXekc" target="_blank" rel="noopener noreferrer">Watch episode</a>
+![Video thumbnail with my selfie and a speech bubble saying 'Land your dream job in tech'](/rock_n_road_to_success_interview.png)
 
 <h2 id="section-6"><em>Conference Talks</em></h2>
 
