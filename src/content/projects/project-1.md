@@ -11,7 +11,7 @@ seo:
 
 ![Project preview](/project-1.png)
 
-## Use Playwright to find a Taylor Swift album on Amazon
+# Use Playwright to find a Taylor Swift album on Amazon
 
 ---
 
