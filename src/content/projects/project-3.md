@@ -1,6 +1,6 @@
 ---
-title: 'native-automation-template'
-description: Native test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
+title: 'electron-automation-template'
+description: Electron app test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
 publishDate: 'July 15 2023'
 isFeatured: true
 seo:
@@ -18,8 +18,8 @@ Automate tests for your Electron apps using Playwright & TypeScript!
 
 ## GitHub Repo
 
-<a href="https://github.com/steven-the-qa/native-automation-template" target="_blank" rel='noopener noreferrer'>
-    https://github.com/steven-the-qa/native-automation-template
+<a href="https://github.com/steven-the-qa/electron-automation-template" target="_blank" rel='noopener noreferrer'>
+    https://github.com/steven-the-qa/electron-automation-template
 </a>
 
 ## Tech Stack
