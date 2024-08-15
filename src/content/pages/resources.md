@@ -12,14 +12,25 @@ seo:
 
 ## Table of Contents
 
-- [QA](#section-1)
-- [Job Hunting](#section-2)
-- [Leadership](#section-3)
-- [Mentoring](#section-4)
+- [For SaaS founders](#section-0)
+- [For learning QA](#section-1)
+- [For job seekers](#section-2)
+- [For influencing](#section-3)
+- [For mentoring](#section-4)
 
 ---
 
-<h2 id="section-1"><em>QA</em></h2>
+<h2 id="section-0"><em>For SaaS founders</em></h2>
+
+### Pre-Flight Functionality Check
+
+<a href="https://stevenboutcher.thrivecart.com/preflight-functionality-check/" target="_blank" rel='noopener noreferrer'>
+  <img alt="Pre-Flight Functionality Check preview" src="/preflight_functionality_check.png" style="width: 60%; border: solid; border-color: white; border-width: 1px; border-radius: 5px" />
+</a>
+
+---
+
+<h2 id="section-1"><em>For learning QA</em></h2>
 
 ### Indie QA Starter Kit
 
@@ -29,7 +40,7 @@ seo:
 
 ---
 
-<h2 id="section-2"><em>Job Hunting</em></h2>
+<h2 id="section-2"><em>For job seekers</em></h2>
 
 ### QA Job Magnet
 
@@ -63,7 +74,7 @@ seo:
 
 ---
 
-<h2 id="section-3"><em>Leadership</em></h2>
+<h2 id="section-3"><em>For influencing</em></h2>
 
 ### QA Top Performer Playbook
 
@@ -73,7 +84,7 @@ seo:
 
 ---
 
-<h2 id="section-4"><em>Mentoring</em></h2>
+<h2 id="section-4"><em>For mentoring</em></h2>
 
 ### Resume Feedback Template
 
