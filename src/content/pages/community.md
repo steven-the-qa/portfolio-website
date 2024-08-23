@@ -102,4 +102,6 @@ Gabe interviewed me about my 5-year journey from Walgreens cashier to QA Automat
 
 <a href="https://www.devfestwi.com/2024/schedule" target="_blank" rel="noopener noreferrer">View conference schedule</a>
 
-**Slides & recording available sometime after August 22, 2024**
+<a href="https://stevenqa.hashnode.dev/why-you-should-be-a-one-step-mentor" target="_blank" rel="noopener noreferrer">Read the short version</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cf6xwe0KJe0?si=KzBkiT3GTlXjtcdP&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
