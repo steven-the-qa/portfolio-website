@@ -72,22 +72,25 @@ I wanted to offer my QA expertise for free to the QA community. I didn't realize
 
 <h2 id="section-5"><em>Exposure</em></h2>
 
-### HeyTaco (blog)
+### HeyTaco Blog
 
 HeyTaco CRO Una Japundza interviewed me about a course I launched on Udemy.
 
 <a href="https://articles.heytaco.com/how-to-be-a-great-teammate" target="_blank" rel="noopener noreferrer">Read article</a>
 ![HeyTaco interview article header](/heytaco_interview.png)
 
-### Software Testing Weekly (newsletter)
+### Software Testing Weekly
 
 My blog posts have been mentioned in a popular QA newsletter.
 
-- <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://blog.stevenboutcher.com/zero-to-manual-qa-roadmap?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_185" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
+- <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://stevenqa.hashnode.dev/zero-to-manual-qa-roadmap" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
   ![Zoom-in on Issue 185 where I'm featured](/stw_issue_185.png)
 
-- <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://blog.stevenboutcher.com/you-should-be-using-data-testid?utm_campaign=Software%2BTesting%2BWeekly&utm_medium=web&utm_source=Software_Testing_Weekly_223" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
+- <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://stevenqa.hashnode.dev/you-should-be-using-data-testid" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
   ![Zoom-in on Issue 223 where I'm featured](/stw_issue_223.png)
+
+- <a href="https://softwaretestingweekly.com/issues/234" target="_blank" rel="noopener noreferrer">Issue 234</a> for my <a href="https://stevenqa.hashnode.dev/fixing-a-flaky-playwright-test-with-a-loop" target="_blank" rel="noopener noreferrer">Fixing a flaky Playwright test with a loop</a> blog post
+  ![Zoom-in on Issue 234 where I'm featured](/stw_issue_234.png)
 
 ### Rock n' Road to Success (podcast)
 
@@ -105,3 +108,5 @@ Gabe interviewed me about my 5-year journey from Walgreens cashier to QA Automat
 <a href="https://stevenqa.hashnode.dev/why-you-should-be-a-one-step-mentor" target="_blank" rel="noopener noreferrer">Read the short version</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cf6xwe0KJe0?si=KzBkiT3GTlXjtcdP&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+<iframe src="https://docs.google.com/presentation/d/1EtLDo3ldHnfkJVyU_xObrxr7dBLWvdHe8amEdkP7MQc/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
