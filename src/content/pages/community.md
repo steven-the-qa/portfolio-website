@@ -40,6 +40,13 @@ Add TypeScript support for BrowserStack debug features
 <a href="https://github.com/webdriverio/webdriverio/pull/10236" target="_blank">View pull request</a>
 ![Pull Request Summary](/wdio_open_source.png)
 
+### Eidolon AI
+
+Several small improvements to the Playwright tests & CI workflow
+
+<a href="https://github.com/eidolon-ai/eidolon/pull/642" target="_blank">View pull request</a>
+![Pull Request Summary](/eidolon_open_source_1.png)
+
 <h2 id="section-2"><em>Twitter Spaces</em></h2>
 
 ### Non-Coding Tech Careers
