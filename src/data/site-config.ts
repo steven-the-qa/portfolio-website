@@ -62,6 +62,10 @@ const siteConfig: SiteConfig = {
             href: ''
         },
         {
+            text: 'Newsletter',
+            href: 'https://themodernqa.com'
+        },
+        {
             text: 'Community',
             href: '/community'
         },
@@ -102,8 +106,12 @@ const siteConfig: SiteConfig = {
             href: 'https://twitter.com/StevenBoutcher'
         },
         {
+            text: 'Newsletter', 
+            href: 'https://themodernqa.com'
+        },
+        {
             text: 'Blog',
-            href: 'https://blog.stevenboutcher.com/'
+            href: 'https://blog.themodernqa.com/'
         },
     ],
     hero: {

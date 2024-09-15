@@ -58,12 +58,21 @@ Most people think about breaking into tech and immediately think they need to le
 
 <h2 id="section-3"><em>Newsletters</em></h2>
 
-### Test Quest
+### Modern QA _(formerly known as Test Quest)_
 
-Most of the DMs I get from QA professionals are about how to navigate the job market. So I made a newsletter.
+On September 17, 2023, I started a newsletter.
+I wanted to learn how to write engaging emails that convert and grow an audience.
 
-<a href="https://chasingquality.ck.page/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
-![Test Quest](/test_quest_newsletter.png)
+The newsletter started off as a mix of personal and career anecdotes to connect with readers. I was finding my voice.
+I started noticing an interest in QA job hunting advice, so I pivoted to that in June 2024, but I got bored with it after 2 months.
+
+I revived the newsletter in September 2024 with a new focus: future-proofing your QA career.
+
+<a href="https://themodernqa.com" target="_blank" rel='noopener noreferrer'>Sign up</a>
+
+<a href="https://themodernqa.com/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
+
+![Modern QA newsletter landing page](/modern_qa_newsletter.png)
 
 <h2 id="section-4"><em>1:1 Mentoring</em></h2>
 
