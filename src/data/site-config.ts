@@ -73,6 +73,10 @@ const siteConfig: SiteConfig = {
             text: 'Resources',
             href: '/resources'
         },
+        {
+            text: 'Mentoring',
+            href: '/mentoring'
+        }
     ],
     footerNavLinks: [
         {
@@ -94,6 +98,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Resources',
             href: '/resources'
+        },
+        {
+            text: 'Mentoring',
+            href: '/mentoring'
         }
     ],
     socialLinks: [
