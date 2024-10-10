@@ -82,10 +82,6 @@ I wanted to offer my QA expertise for free to the QA community. I didn't realize
 
 <a href="https://adplist.org/mentors/steven-boutcher" target="_blank" rel='noopener noreferrer'>View mentor profile</a>
 
-#### **Reviews**
-
-<section style="height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/reviews?src=steven-boutcher" title="All Reviews" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
-
 #### **Impact**
 
 <section style="height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;"><iframe src="https://adplist.org/widgets/impact?src=steven-boutcher" title="Impact" width="100%" height="100%" loading="lazy" style="border: 0px;"></iframe></section>
