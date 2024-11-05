@@ -6,6 +6,7 @@ isFeatured: true
 seo:
   image:
     src: '/project-3.png'
+    alt: 'Playwright code for launching the Notion app'
 ---
 
 ![Project preview](/project-3.png)

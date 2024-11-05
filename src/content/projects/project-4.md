@@ -6,6 +6,7 @@ isFeatured: true
 seo:
   image:
     src: '/project-4.png'
+    alt: 'Cypress code for login form testing'
 ---
 
 ![Project preview](/project-4.png)
