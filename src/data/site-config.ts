@@ -63,7 +63,8 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Newsletter',
-            href: 'https://themodernqa.com'
+            href: 'https://thesocialqa.com',
+            target: '_blank'
         },
         {
             text: 'Community',
@@ -99,7 +100,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'https://linkedin.com/in/boutchersj'
+            href: 'https://linkedin.com/in/stevenboutcher'
         },
         {
             text: 'Twitter',
@@ -107,11 +108,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Newsletter', 
-            href: 'https://themodernqa.com'
+            href: 'https://thesocialqa.com'
         },
         {
             text: 'Blog',
-            href: 'https://blog.themodernqa.com/'
+            href: 'https://blog.thesocialqa.com/'
         },
     ],
     hero: {
@@ -122,7 +123,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: 'https://linkedin.com/in/boutchersj',
+                href: 'https://linkedin.com/in/stevenboutcher',
                 target: '_blank'
             }
         ]

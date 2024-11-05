@@ -68,11 +68,11 @@ I started noticing an interest in QA job hunting advice, so I pivoted to that in
 
 I revived the newsletter in September 2024 with a new focus: future-proofing your QA career.
 
-<a href="https://themodernqa.com" target="_blank" rel='noopener noreferrer'>Sign up</a>
+<a href="https://thesocialqa.com" target="_blank" rel='noopener noreferrer'>Sign up</a>
 
-<a href="https://themodernqa.com/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
+<a href="https://thesocialqa.com/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
 
-![Modern QA newsletter landing page](/modern_qa_newsletter.png)
+![Modern QA newsletter landing page](/social_qa_newsletter.png)
 
 <h2 id="section-4"><em>1:1 Mentoring</em></h2>
 
