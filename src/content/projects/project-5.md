@@ -1,5 +1,5 @@
 ---
-title: 'weight-tracker'
+title: 'dead-simple-weight-tracker'
 description: 'A simple weight tracker without all the other nonsense'
 publishDate: 'October 29, 2024'
 isFeatured: true
@@ -9,9 +9,9 @@ seo:
     alt: 'Weight tracker app screenshot -- graph of weight over time'
 ---
 
-# MyWeightTracker
+![Project preview](/project-5.png)
 
-## Tracking your weight should be easy.
+# Tracking your weight should be easy.
 
 ### Overview
 
@@ -23,6 +23,12 @@ A minimalist weight tracking application that allows users to:
 - Visualize progress through charts and progress bars
 - Toggle between lb/kg units
 - Manage weight history and settings
+
+## Check it out
+
+<a href="https://dead-simple-weight-tracker.web.app/" target="_blank" rel='noopener noreferrer'>
+   https://dead-simple-weight-tracker.web.app/
+</a>
 
 ### Tech Stack
 
