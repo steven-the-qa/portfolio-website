@@ -35,7 +35,7 @@ https://mentor-proof.netlify.app/
 - Your Senja API key (requires a [Pro plan](https://senja.io/pricing))
   - Find it in your Senja account under [Automate > API](https://app.senja.io/automations)
 
-![Senja API Key Location](/public/senja_api_key_location.png)
+![Senja API Key Location](/senja_api_key_location.png)
 
 ## Local Development
 
