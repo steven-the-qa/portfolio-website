@@ -42,6 +42,12 @@ seo:
 
 <h2 id="section-2"><em>For mentors</em></h2>
 
+### QA Education Business Tool Stack
+
+<a href="https://steven-the-qa.github.io/steal-my-stack/" target="_blank" rel='noopener noreferrer'>
+  <img alt="My business tool stack webpage preview" src="/steal_my_stack.png" style="width: 60%; border: solid; border-color: white; border-width: 1px; border-radius: 5px" />
+</a>
+
 ### Resume Feedback Template
 
 <a href="https://steven-boutcher.notion.site/Resume-Feedback-Template-ffbc0bdf231a4bc789e1c57e3a655232?pvs=4" target="_blank" rel='noopener noreferrer'>
@@ -57,6 +63,12 @@ seo:
 ---
 
 <h2 id="section-3"><em>For new testers</em></h2>
+
+### Social QA Bootcamp Waitlist (Relaunch coming May 2025)
+
+<a href="https://thesocialqa.kit.com/bootcamp-waitlist" target="_blank" rel='noopener noreferrer'>
+  <img alt="Social QA Bootcamp waitlist preview" src="/social_qa_bootcamp_waitlist.png" style="width: 60%; border: solid; border-color: white; border-width: 1px; border-radius: 5px" />
+</a>
 
 ### Indie QA Starter Kit
 
