@@ -58,7 +58,7 @@ Most people think about breaking into tech and immediately think they need to le
 
 <h2 id="section-3"><em>Newsletters</em></h2>
 
-### Modern QA _(formerly known as Test Quest)_
+### Social QA
 
 On September 17, 2023, I started a newsletter.
 I wanted to learn how to write engaging emails that convert and grow an audience.
@@ -66,13 +66,13 @@ I wanted to learn how to write engaging emails that convert and grow an audience
 The newsletter started off as a mix of personal and career anecdotes to connect with readers. I was finding my voice.
 I started noticing an interest in QA job hunting advice, so I pivoted to that in June 2024, but I got bored with it after 2 months.
 
-I revived the newsletter in September 2024 with a new focus: future-proofing your QA career.
+I revived the newsletter in September 2024 with a new focus: future-proofing your QA career through social networking and community contributions. Essentially, applying entrepreneurial mindset to your career.
 
 <a href="https://thesocialqa.com" target="_blank" rel='noopener noreferrer'>Sign up</a>
 
 <a href="https://thesocialqa.com/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
 
-![Modern QA newsletter landing page](/social_qa_newsletter.png)
+![Social QA newsletter landing page](/social_qa_newsletter.png)
 
 <h2 id="section-4"><em>1:1 Mentoring</em></h2>
 
@@ -103,14 +103,17 @@ HeyTaco CRO Una Japundza interviewed me about a course I launched on Udemy.
 
 My blog posts have been mentioned in a popular QA newsletter.
 
-- <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://stevenqa.hashnode.dev/zero-to-manual-qa-roadmap" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
+- <a href="https://softwaretestingweekly.com/issues/185" target="_blank" rel="noopener noreferrer">Issue 185</a> for my <a href="https://blog.thesocialqa.com/zero-to-manual-qa-roadmap" target="_blank" rel="noopener noreferrer">Zero to Manual QA Roadmap</a> blog post
   ![Zoom-in on Issue 185 where I'm featured](/stw_issue_185.png)
 
-- <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://stevenqa.hashnode.dev/you-should-be-using-data-testid" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
+- <a href="https://softwaretestingweekly.com/issues/223" target="_blank" rel="noopener noreferrer">Issue 223</a> for my <a href="https://blog.thesocialqa.com/you-should-be-using-data-testid" target="_blank" rel="noopener noreferrer">You Should Be Using Data-TestId</a> blog post
   ![Zoom-in on Issue 223 where I'm featured](/stw_issue_223.png)
 
-- <a href="https://softwaretestingweekly.com/issues/234" target="_blank" rel="noopener noreferrer">Issue 234</a> for my <a href="https://stevenqa.hashnode.dev/fixing-a-flaky-playwright-test-with-a-loop" target="_blank" rel="noopener noreferrer">Fixing a flaky Playwright test with a loop</a> blog post
+- <a href="https://softwaretestingweekly.com/issues/234" target="_blank" rel="noopener noreferrer">Issue 234</a> for my <a href="https://blog.thesocialqa.com/fixing-a-flaky-playwright-test-with-a-loop" target="_blank" rel="noopener noreferrer">Fixing a flaky Playwright test with a loop</a> blog post
   ![Zoom-in on Issue 234 where I'm featured](/stw_issue_234.png)
+
+- <a href="https://softwaretestingweekly.com/issues/255" target="_blank" rel="noopener noreferrer">Issue 255</a> for my <a href="https://blog.thesocialqa.com/how-macos-runners-helped-me-enter-the-playwright-matrix" target="_blank" rel="noopener noreferrer">How macOS runners helped me enter the Playwright Matrix</a> blog post
+  ![Zoom-in on Issue 255 where I'm featured](/stw_issue_255.png)
 
 ### Rock n' Road to Success (podcast)
 
