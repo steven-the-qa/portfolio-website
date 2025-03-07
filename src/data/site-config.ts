@@ -62,11 +62,6 @@ const siteConfig: SiteConfig = {
             href: ''
         },
         {
-            text: 'Newsletter',
-            href: 'https://thesocialqa.com',
-            target: '_blank'
-        },
-        {
             text: 'Community',
             href: '/community'
         },
@@ -105,10 +100,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Twitter',
             href: 'https://twitter.com/StevenBoutcher'
-        },
-        {
-            text: 'Newsletter', 
-            href: 'https://thesocialqa.com'
         },
         {
             text: 'Blog',
