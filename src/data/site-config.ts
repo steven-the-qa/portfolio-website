@@ -36,7 +36,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'QA Automation Engineer | Aspiring Parkour Coach',
     description: 'Writing the code devs don\'t want to write.',
     image: {
-        src: '/honeyz-selfie',
+        src: '/honeyz-selfie.png',
         alt: 'Selfie with my wife on a hiking trail in the fall'
     },
     headerNavLinks: [
