@@ -2,7 +2,7 @@
 title: 'cypress-web-automation'
 description: Practice project for writing my first Cypress tests
 publishDate: 'August 23, 2024'
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/project-4.png'

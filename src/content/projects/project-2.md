@@ -2,7 +2,7 @@
 title: 'mobile-automation-template'
 description: Mobile test automation using WebdriverIO, Cucumber, TypeScript, and Appium
 publishDate: 'July 9 2023'
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/project-2.png'

@@ -98,8 +98,8 @@ const siteConfig: SiteConfig = {
             href: 'https://linkedin.com/in/stevenboutcher'
         },
         {
-            text: 'Twitter',
-            href: 'https://twitter.com/StevenBoutcher'
+            text: '𝕏',
+            href: 'https://x.com/StevenBoutcher'
         },
         {
             text: 'Blog',

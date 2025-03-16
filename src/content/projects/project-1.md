@@ -2,7 +2,7 @@
 title: 'web-automation-template'
 description: Web test automation framework using Playwright + TypeScript
 publishDate: 'February 24, 2024'
-isFeatured: true
+isFeatured: false
 seo:
   image:
     src: '/project-1.png'
