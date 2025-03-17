@@ -69,6 +69,10 @@ const siteConfig: SiteConfig = {
             text: 'Resources',
             href: '/resources'
         },
+        {
+            text: 'Bootcamp',
+            href: '/bootcamp'
+        }
     ],
     footerNavLinks: [
         {
@@ -90,6 +94,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Resources',
             href: '/resources'
+        },
+        {
+            text: 'Bootcamp',
+            href: '/bootcamp'
         }
     ],
     socialLinks: [
