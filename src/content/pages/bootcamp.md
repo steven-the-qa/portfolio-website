@@ -10,6 +10,61 @@ seo:
 
 ![Social QA Bootcamp logo](/social_qa_bootcamp_logo.png)
 
+## The Wall of Winners
+
+<div class="space-y-6 mt-8">
+    <!-- Example Certificate Card -->
+    <div class="bg-black rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-[#FAED0E]/20 p-4">
+        <div class="md:w-2/5 flex items-center">
+              <img 
+                  src="/ryley_johnson_social_qa_bootcamp_certificate.jpg" 
+                  alt="Social QA Bootcamp Certificate" 
+                  class="aspect-[1242/962] object-cover"
+              />
+        </div>
+        <div class="p-6 md:w-3/5">
+            <h3 class="text-2xl font-semibold mb-2 text-[#FAED0E]">Ryley Johnson</h3>
+            <p class="text-sm text-white/70 mb-4">Certificate ID: 8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o</p>
+            <div class="flex gap-4">
+                <a 
+                    href="/graduates/ryley-johnson" 
+                    class="text-[#FAED0E] hover:text-white font-medium transition-colors"
+                >
+                    View Portfolio →
+                </a>
+                <a 
+                    href="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o" 
+                    class="text-[#FAED0E] hover:text-white font-medium transition-colors"
+                >
+                    Share Certificate →
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Add any custom styles for the certificate cards */
+    .certificate-card {
+        transition: all 0.2s ease-in-out;
+    }
+    .certificate-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 20px 25px -5px rgb(250 237 14 / 0.1), 0 8px 10px -6px rgb(250 237 14 / 0.1);
+    }
+</style>
+
+<script>
+    // Function to generate a UUID v4
+    function generateCertificateId() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            const r = Math.random() * 16 | 0;
+            const v = c === 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+        });
+    }
+</script>
+
 ## The Sales Page
 
 https://stevenboutcher.thrivecart.com/social-qa-bootcamp/
