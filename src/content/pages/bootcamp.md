@@ -10,6 +10,53 @@ seo:
 
 ![Social QA Bootcamp logo](/social_qa_bootcamp_logo.png)
 
+## The Wall of Winners
+
+<div class="space-y-6 mt-8">
+    <!-- Example Certificate Card -->
+    <div class="bg-black rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-[#FAED0E]/20 p-6">
+        <div class="md:w-1/2 flex items-center justify-center">
+            <img 
+                src="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.png"
+                alt="Social QA Bootcamp Certificate" 
+                class="w-full rounded-lg aspect-[1242/962] object-contain"
+            />
+        </div>
+        <div class="md:w-1/2 md:pl-8 flex flex-col justify-center mt-6 md:mt-0">
+            <h3 class="text-3xl font-bold mb-3 text-[#FAED0E]">Ryley Johnson</h3>
+            <p class="text-sm text-white/70 mb-6">Certificate ID: 8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o</p>
+            <a 
+                href="/graduates/ryley-johnson" 
+                class="text-[#FAED0E] hover:text-white font-medium transition-colors text-lg group inline-flex items-center"
+            >
+                View Portfolio <span class="ml-2 group-hover:translate-x-1 transition-transform">→</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Add any custom styles for the certificate cards */
+    .certificate-card {
+        transition: all 0.2s ease-in-out;
+    }
+    .certificate-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 20px 25px -5px rgb(250 237 14 / 0.1), 0 8px 10px -6px rgb(250 237 14 / 0.1);
+    }
+</style>
+
+<script>
+    // Function to generate a UUID v4
+    function generateCertificateId() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            const r = Math.random() * 16 | 0;
+            const v = c === 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+        });
+    }
+</script>
+
 ## The Sales Page
 
 https://stevenboutcher.thrivecart.com/social-qa-bootcamp/
