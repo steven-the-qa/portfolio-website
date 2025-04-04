@@ -14,31 +14,23 @@ seo:
 
 <div class="space-y-6 mt-8">
     <!-- Example Certificate Card -->
-    <div class="bg-black rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-[#FAED0E]/20 p-4">
-        <div class="md:w-2/5 flex items-center">
-              <img 
-                  src="/ryley_johnson_social_qa_bootcamp_certificate.jpg" 
-                  alt="Social QA Bootcamp Certificate" 
-                  class="aspect-[1242/962] object-cover"
-              />
+    <div class="bg-black rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-[#FAED0E]/20 p-6">
+        <div class="md:w-1/2 flex items-center justify-center">
+            <img 
+                src="public/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.jpg" 
+                alt="Social QA Bootcamp Certificate" 
+                class="w-full rounded-lg aspect-[1242/962] object-contain"
+            />
         </div>
-        <div class="p-6 md:w-3/5">
-            <h3 class="text-2xl font-semibold mb-2 text-[#FAED0E]">Ryley Johnson</h3>
-            <p class="text-sm text-white/70 mb-4">Certificate ID: 8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o</p>
-            <div class="flex gap-4">
-                <a 
-                    href="/graduates/ryley-johnson" 
-                    class="text-[#FAED0E] hover:text-white font-medium transition-colors"
-                >
-                    View Portfolio →
-                </a>
-                <a 
-                    href="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o" 
-                    class="text-[#FAED0E] hover:text-white font-medium transition-colors"
-                >
-                    Share Certificate →
-                </a>
-            </div>
+        <div class="md:w-1/2 md:pl-8 flex flex-col justify-center mt-6 md:mt-0">
+            <h3 class="text-3xl font-bold mb-3 text-[#FAED0E]">Ryley Johnson</h3>
+            <p class="text-sm text-white/70 mb-6">Certificate ID: 8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o</p>
+            <a 
+                href="/graduates/ryley-johnson" 
+                class="text-[#FAED0E] hover:text-white font-medium transition-colors text-lg group inline-flex items-center"
+            >
+                View Portfolio <span class="ml-2 group-hover:translate-x-1 transition-transform">→</span>
+            </a>
         </div>
     </div>
 </div>
