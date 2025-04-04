@@ -4,7 +4,7 @@ seo:
   title: Ryley Johnson | QA Engineer & Social QA Bootcamp Graduate
   description: Showcasing test automation expertise, community contributions, and technical writing achievements from Social QA Bootcamp.
   image:
-    src: 'public/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.jpg'
+    src: '/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.png'
     alt: Ryley Johnson's Social QA Bootcamp graduation certificate
 ---
 
@@ -12,7 +12,7 @@ seo:
 
 <div class="max-w-4xl mx-auto mb-12">
     <img 
-        src="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.jpg" 
+        src="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.png"
         alt="Ryley Johnson's Social QA Bootcamp Certificate" 
         class="w-full rounded-lg shadow-xl border-2 border-yellow-400"
     />
@@ -37,7 +37,7 @@ seo:
         const embedCode = `<div class="certificate-embed" style="max-width: 800px; margin: 0 auto;">
   <div style="position: relative; aspect-ratio: 4/3; width: 100%;">
     <img
-      src="https://stevenqa.com/certificates/${certificateId}/certificate.jpg"
+      src="https://stevenqa.com/certificates/${certificateId}/certificate.png"
       alt="Ryley Johnson - Social QA Bootcamp Certificate"
       style="width: 100%; height: 100%; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #facc15;"
     />

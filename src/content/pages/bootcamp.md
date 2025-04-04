@@ -17,7 +17,7 @@ seo:
     <div class="bg-black rounded-2xl shadow-xl overflow-hidden flex flex-col md:flex-row border border-[#FAED0E]/20 p-6">
         <div class="md:w-1/2 flex items-center justify-center">
             <img 
-                src="public/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.jpg" 
+                src="/certificates/8f7d3b2a-1e4c-5f6g-9h0i-1j2k3l4m5n6o/certificate.png"
                 alt="Social QA Bootcamp Certificate" 
                 class="w-full rounded-lg aspect-[1242/962] object-contain"
             />
