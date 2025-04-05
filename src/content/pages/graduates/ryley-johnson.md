@@ -83,7 +83,7 @@ seo:
 - <a href="https://www.linkedin.com/posts/ryleyj_playwright-clipboard-interactions-case-study-activity-7276816051005206528-odsk" target="_blank" rel="noopener noreferrer">Build in Public</a>
 - <a href="https://www.linkedin.com/posts/ryleyj_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%90%F0%9D%90%80-%F0%9D%90%B0%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%B2-activity-7301073508179054592-tYHU" target="_blank" rel="noopener noreferrer">Insight</a>
 - <a href="https://www.linkedin.com/posts/ryleyj_creating-a-playwright-automation-script-using-activity-7312661923966197761-k_Wd" target="_blank" rel="noopener noreferrer">Community Contribution</a>
-- Course Reflection (pending)
+- <a href="https://wary-ethernet-059.notion.site/How-I-Went-From-Tutorial-Hell-to-10K-LinkedIn-Views-b312daaec4db4489896fa8b4748ed43f" target="_blank" rel="noopener noreferrer">Course Reflection</a>
 - <a href="https://www.linkedin.com/posts/ryleyj_automation-playwright-ai-activity-7304227005313470465-0_SB" target="_blank" rel="noopener noreferrer">**Extracurricular** - AI-powered mobile automation</a>
 
 ### Community Contributions
