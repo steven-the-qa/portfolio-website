@@ -106,10 +106,6 @@ const siteConfig: SiteConfig = {
             href: 'https://linkedin.com/in/stevenboutcher'
         },
         {
-            text: '𝕏',
-            href: 'https://x.com/StevenBoutcher'
-        },
-        {
             text: 'Blog',
             href: 'https://blog.thesocialqa.com/'
         },
