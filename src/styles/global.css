@@ -8,12 +8,16 @@
         --color-bg-main: 242 241 236; /* #F2F1EC */
         --color-bg-muted: 234 233 225; /* #EAE9E1 */
         --color-border-main: 23 23 23; /* #171717 */
+        --color-accent: 124 58 237; /* #7C3AED */
+        --color-accent-contrast: 255 255 255; /* #FFFFFF */
     }
     html.dark {
         --color-text-main: 242 241 236; /* #F2F1EC */
         --color-bg-main: 23 23 23; /* #171717 */
         --color-bg-muted: 36 36 36; /* #242424 */
         --color-border-main: 242 241 236; /* #F2F1EC */
+        --color-accent: 167 139 250; /* #A78BFA */
+        --color-accent-contrast: 23 23 23; /* #171717 */
     }
 
     /* Cyan */
@@ -47,4 +51,33 @@
         --color-border-main: 243 239 230;
     }
     */
+
+    a,
+    button {
+        @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent;
+    }
+}
+
+@layer components {
+    .card {
+        @apply rounded-2xl border border-main/20 bg-main/60 shadow-sm;
+        transition:
+            transform 0.15s ease,
+            box-shadow 0.15s ease;
+    }
+    .card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    }
+
+    .hero-radial {
+        background: radial-gradient(1200px 400px at 50% -100px, rgba(0, 0, 0, 0.06), transparent);
+    }
+    .dark .hero-radial {
+        background: radial-gradient(1200px 400px at 50% -100px, rgba(255, 255, 255, 0.06), transparent);
+    }
+
+    .tag {
+        @apply inline-flex items-center px-2.5 py-1 rounded-full border border-accent/60 text-accent text-xs bg-accent/5;
+    }
 }

@@ -8,7 +8,8 @@ const hero = siteConfig.hero;
 
 {
     (hero?.title || hero?.image?.src || hero?.text || (hero?.actions && hero.actions.length > 0)) && (
-        <section class="w-full flex flex-col gap-8 mb-16 sm:mb-24">
+        <section class="relative w-full flex flex-col gap-8 mb-16 sm:mb-24">
+            <div class="pointer-events-none absolute inset-0 -z-10 hero-radial" />
             {hero.title && <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{hero.title}</h1>}
             {hero.image?.src && (
                 <figure>
@@ -33,7 +34,7 @@ When I need some alone time, I love to bike down to the skatepark to do some par
             {hero.actions && hero.actions.length > 0 && (
                 <div class="flex flex-wrap gap-4">
                     {hero.actions.map((action) => (
-                        <Button href={action.href} target={action.target}>
+                        <Button variant="primary" href={action.href} target={action.target}>
                             {action.text}
                         </Button>
                     ))}

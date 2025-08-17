@@ -10,14 +10,20 @@ module.exports = {
         },
         extend: {
             textColor: {
-                main: 'rgb(var(--color-text-main) / <alpha-value>)'
+                main: 'rgb(var(--color-text-main) / <alpha-value>)',
+                accent: 'rgb(var(--color-accent) / <alpha-value>)'
             },
             backgroundColor: {
                 main: 'rgb(var(--color-bg-main) / <alpha-value>)',
-                muted: 'rgb(var(--color-bg-muted) / <alpha-value>)'
+                muted: 'rgb(var(--color-bg-muted) / <alpha-value>)',
+                accent: 'rgb(var(--color-accent) / <alpha-value>)'
             },
             borderColor: {
-                main: 'rgb(var(--color-border-main) / <alpha-value>)'
+                main: 'rgb(var(--color-border-main) / <alpha-value>)',
+                accent: 'rgb(var(--color-accent) / <alpha-value>)'
+            },
+            ringColor: {
+                accent: 'rgb(var(--color-accent) / <alpha-value>)'
             },
             typography: (theme) => ({
                 dante: {
@@ -43,6 +49,7 @@ module.exports = {
                 DEFAULT: {
                     css: {
                         a: {
+                            color: 'rgb(var(--color-accent))',
                             fontWeight: 'normal',
                             textDecoration: 'underline',
                             textDecorationStyle: 'dashed',
@@ -54,7 +61,8 @@ module.exports = {
                         },
                         'h1,h2,h3,h4,h5,h6': {
                             fontFamily: theme('fontFamily.serif'),
-                            fontWeight: 500
+                            fontWeight: 600,
+                            letterSpacing: '-0.01em'
                         },
                         blockquote: {
                             border: 0,
