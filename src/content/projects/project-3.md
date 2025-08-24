@@ -1,49 +1,66 @@
 ---
-title: 'electron-automation-template'
-description: Electron app test automation using Playwright, TypeScript, NodeJS, and a sprinkle of RobotJS
-publishDate: 'July 15 2023'
-isFeatured: false
+title: 'mentor-proof'
+description: 'Convert your ADPList reviews into Senja testimonials'
+publishDate: 'October 28, 2024'
+isFeatured: true
 seo:
   image:
     src: '/project-3.png'
-    alt: 'Playwright code for launching the Notion app'
+    alt: 'Mentor Proof app screenshot -- inputs form requesting ADPList mentor profile URL and Senja API key'
 ---
 
 ![Project preview](/project-3.png)
 
-# Use Playwright to test the Notion native app
+# Mentor Proof
 
-## Introduction
+Convert your ADPList reviews into Senja testimonials.
 
-Automate tests for your Electron apps using Playwright & TypeScript!
+## Demo
 
-## GitHub Repo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YFUj-qyAO4?si=KrjJx3jh6keoqAzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://github.com/steven-the-qa/electron-automation-template" target="_blank" rel='noopener noreferrer'>
-    https://github.com/steven-the-qa/electron-automation-template
-</a>
+## Where to find it
 
-## Tech Stack
+https://mentor-proof.netlify.app/
 
-- Playwright (ElectronJS app testing support)
-- TypeScript (type safety)
-- NodeJS (writing to the file system)
-- RobotJS (Playwright doesn't do keyboard navigation well within a select menu)
+## How it works
 
-## Getting Started
+1. Fetch all of your ADPList reviews
+2. Create a Senja testimonial for each review
 
-1. Clone the repository
-2. IF ON WINDOWS (maybe just Windows 10, idk), install an extra dependency to support RobotJS keyboard commands BEFORE installing all dependencies (otherwise, [things get weird](https://github.com/octalmage/robotjs/issues/590)):
+## What you'll need
 
-```bash
-npm install -g node-gyp
+- Your ADPList Mentor Profile URL
+  - This is your public profile page on ADPList. For example: https://adplist.org/mentors/steven-boutcher
+- Your Senja API key (requires a [Pro plan](https://senja.io/pricing))
+  - Find it in your Senja account under [Automate > API](https://app.senja.io/automations)
+
+![Senja API Key Location](/senja_api_key_location.png)
+
+## Local Development
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js (v20 or later)
+- npm (usually comes with Node.js)
+
+### Setting up the project
+
+1. Clone the repository: `git clone https://github.com/yourusername/adplist-senja.git
+cd adplist-senja  `
+
+2. Install dependencies: `npm install  `
+
+3. Build the project: `npm run build  `
+
+### Running the dev server
+
+To run the project:
+
+```
+npm run dev
 ```
 
-3. Install the Visual Studio Tools [with the "Desktop Development with C++" workload](<https://github.com/nodejs/node-gyp#installation:~:text=Install%20Visual%20C%2B%2B%20Build%20Environment%3A%20Visual%20Studio%20Build%20Tools%20(using%20%22Visual%20C%2B%2B%20build%20tools%22%20workload)%20or%20Visual%20Studio%20Community%20(using%20the%20%22Desktop%20development%20with%20C%2B%2B%22%20workload)>) to support node-gyp
-4. To install all dependencies minus unnecessary Playwright browsers (because Electron), run:
-
-```bash
-PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci
-```
-
-4. To run tests, run `npm test` from the root directory
+Once the application is running, open your web browser and navigate to `http://localhost:8888`

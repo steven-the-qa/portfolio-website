@@ -1,72 +1,155 @@
 ---
-title: 'mobile-automation-template'
-description: Mobile test automation using WebdriverIO, Cucumber, TypeScript, and Appium
-publishDate: 'July 9 2023'
-isFeatured: false
+title: 'dead-simple-weight-tracker'
+description: 'A simple weight tracker without all the other nonsense'
+publishDate: 'October 29, 2024'
+isFeatured: true
 seo:
   image:
     src: '/project-2.png'
-    alt: Snippet from the Azure Pipelines file where I start running the WebdriverIO tests and begin a script to manipulate user input into a runnable command
+    alt: 'Weight tracker app screenshot -- graph of weight over time'
 ---
 
 ![Project preview](/project-2.png)
 
-# Use WebdriverIO to test a cross-platform mobile app
+# Tracking your weight should be easy.
 
-## Introduction
+### Overview
 
-Automate tests for your Android & iOS apps using WebdriverIO & TypeScript!
+A minimalist weight tracking application that allows users to:
 
-## GitHub Repo
+- Sign in with Google
+- Set initial weight and goal weight
+- Track daily weight entries
+- Visualize progress through charts and progress bars
+- Toggle between lb/kg units
+- Manage weight history and settings
 
-<a href="https://github.com/steven-the-qa/mobile-automation-template" target="_blank" rel='noopener noreferrer'>
-   https://github.com/steven-the-qa/mobile-automation-template
+## Check it out
+
+<a href="https://dead-simple-weight-tracker.web.app/" target="_blank" rel='noopener noreferrer'>
+   https://dead-simple-weight-tracker.web.app/
 </a>
 
-## Tech Stack
+### Tech Stack
 
-- WebdriverIO (Appium support)
-- TypeScript (type safety)
-- NodeJS (writing to the file system)
-- Cucumber (supported out-of-the-box via WebdriverIO's CLI)
-- BrowserStack (devices)
+1. **Frontend Framework**
 
-## Getting Started
+   - Vue 3 with Composition API
+   - TypeScript
+   - Vue Router for navigation
+   - Tailwind CSS for styling
 
-1. Install Node 16 or higher
-2. Clone the repo
-3. From the `ios` and `android` directories, run `npm install` to install dependencies
+2. **Backend/Infrastructure**
 
-That's it! At this point, you should be able to run tests.
+   - Firebase Authentication (Google Sign-in)
+   - Firebase Firestore (Database)
+   - Firebase Hosting
+   - Firebase Analytics
 
-## Run Tests Locally
+3. **Development Tools**
+   - Vite as build tool
+   - ESLint for linting
+   - Prettier for code formatting
+   - Playwright for E2E testing
+   - Vitest for unit testing
 
-### Running all tests for either Android or iOS
+### Key Features
 
-1. Navigate to the directory of either the `android` or `ios` project
-2. Run `npm run all` to run all tests in the project
+1. **Authentication**
 
-### Running a single test
+   - Google OAuth integration
+   - Protected routes
+   - Session management
 
-1. Navigate to the directory of either the `android` or `ios` project
-2. Run `npm run test features/{name}.feature` using the name of your feature file
+2. **Weight Management**
 
-### Running multiple tests
+   - Add/update weight entries
+   - Set/update goal weight
+   - Set/update starting weight
+   - Unit conversion (lb/kg)
 
-1. Navigate to the directory of either the `android` or `ios` project
-2. Run `npm run test {feature_path_1} {feature_path_2} etc...`
+3. **Data Visualization**
 
-### Run on 1 or more devices
+   - Progress chart using Chart.js
+   - Progress bar showing goal completion
+   - Current/Start/Goal weight display
 
-1. Navigate to the directory of either the `android` or `ios` project
-2. DEVICE={device_name1} {device_name2} npm run test {feature_path}
+4. **Settings**
+   - Toggle measurement units
+   - Delete weight history
+   - Update goal weight
+   - Update starting weight
 
-iOS Devices:
+### Setup Instructions
 
-- iphone_12_pro_16
-- iphone_13_pro_15
+1. **Prerequisites**
 
-Android Devices:
+   - Node.js installed
+   - Firebase account
+   - Google Cloud Platform project with OAuth configured
 
-- pixel_6_12
-- galaxy_s21_12
+2. **Installation**
+
+```bash
+# Clone the repository
+git clone https://github.com/steven-the-qa/weight-tracker
+cd weight-tracker
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+# Create a .env file with Firebase config
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Deploy to Firebase
+npm run deploy
+```
+
+3. **Firebase Setup**
+   - Create a new Firebase project
+   - Enable Authentication with Google provider
+   - Set up Firestore database
+   - Configure Firebase hosting
+   - Update Firebase config in `src/firebase.ts`
+
+### Project Structure
+
+The application follows a standard Vue.js project structure with:
+
+- Components in `src/components/`
+- Views in `src/views/`
+- Router configuration in `src/router/`
+- Firebase configuration in `src/firebase.ts`
+- Global styles in `src/index.css`
+
+### Testing
+
+The project includes:
+
+- Unit testing setup with Vitest
+- E2E testing setup with Playwright
+- Run tests with:
+
+```bash
+# Unit tests
+npm run test:unit
+
+# E2E tests
+npm run test:e2e
+```
+
+### Deployment
+
+The application is configured for Firebase Hosting deployment:
+
+```bash
+npm run deploy
+```
+
+This will build the application and deploy it to Firebase Hosting.
