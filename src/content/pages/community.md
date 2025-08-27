@@ -133,3 +133,12 @@ Gabe interviewed me about my 5-year journey from Walgreens cashier to QA Automat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cf6xwe0KJe0?si=KzBkiT3GTlXjtcdP&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 <iframe src="https://docs.google.com/presentation/d/1EtLDo3ldHnfkJVyU_xObrxr7dBLWvdHe8amEdkP7MQc/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br />
+
+### DevFest WI 2025 - "AI-Assisted Testing: DOs and DON'Ts"
+
+<a href="https://www.devfestwi.com/2025/schedule" target="_blank" rel="noopener noreferrer">View conference schedule</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBppONUzil0?si=lgbSLtHD9KZ_Fj3e&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+<iframe src="https://docs.google.com/presentation/d/1zhlPI5GZoUNbgUYXcd-bg3Lz36ZLiuqaVJZXSPiX_CM/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
