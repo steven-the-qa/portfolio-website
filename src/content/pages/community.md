@@ -137,6 +137,12 @@ Gabe interviewed me about my 5-year journey from Walgreens cashier to QA Automat
 
 ### DevFest WI 2025 - "AI-Assisted Testing: DOs and DON'Ts"
 
+My wife filmed the talk and collaborated with me on the slides! She's the absolute best and this talk
+wouldn't have been the same without her help. Love, you Sam ❤️
+<br /><br />
+In case you're wondering exactly how she helped, I wrote the original content, she designed the slides & massaged the content wording, and I did a final QA of the deck. She loves design and making slide decks & I have the experience and technical vocabulary, so we played to our strengths 💪🏻
+<br />
+
 <a href="https://www.devfestwi.com/2025/schedule" target="_blank" rel="noopener noreferrer">View conference schedule</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBppONUzil0?si=lgbSLtHD9KZ_Fj3e&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
