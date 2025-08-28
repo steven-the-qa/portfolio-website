@@ -145,6 +145,8 @@ In case you're wondering exactly how she helped, I wrote the original content, s
 
 <a href="https://www.devfestwi.com/2025/schedule" target="_blank" rel="noopener noreferrer">View conference schedule</a>
 
+<a href="https://blog.thesocialqa.com/ai-assisted-testing-dos-and-donts#heading-ai-in-test-automation-the-donts" target="_blank" rel="noopener noreferrer">Read the short version</a>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBppONUzil0?si=lgbSLtHD9KZ_Fj3e&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 <iframe src="https://docs.google.com/presentation/d/1zhlPI5GZoUNbgUYXcd-bg3Lz36ZLiuqaVJZXSPiX_CM/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
