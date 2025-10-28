@@ -54,7 +54,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Resume',
-            href: '/Steven_Boutcher_Resume.pdf',
+            href: '/Steven Boutcher Resume.pdf',
             target: '_blank'
         },
         {
