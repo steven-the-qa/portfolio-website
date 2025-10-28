@@ -20,18 +20,6 @@ seo:
 
 <h2 id="section-1"><em>For job hunters</em></h2>
 
-### QA Job Magnet
-
-<a href="https://stevenboutcher.thrivecart.com/qa-job-magnet/" target="_blank" rel='noopener noreferrer'>
-  <img alt="QA Job Magnet preview" src="/qa_job_magnet.png" style="width: 60%; border: solid; border-color: white; border-width: 1px; border-radius: 5px" />
-</a>
-
-### AWS Cert Smasher
-
-<a href="https://stevenboutcher.thrivecart.com/aws-cert-smasher/" target="_blank" rel='noopener noreferrer'>
-  <img alt="AWS Cert Smasher preview" src="/aws_cert_smasher.png" style="width: 60%; border: solid; border-color: white; border-width: 1px; border-radius: 5px" />
-</a>
-
 ### Job Interview Tracker
 
 <a href="https://steven-boutcher.notion.site/Job-Interview-Tracker-caa6685ef4e5487bbd465e7f9d4b8662?pvs=4" target="_blank" rel='noopener noreferrer'>

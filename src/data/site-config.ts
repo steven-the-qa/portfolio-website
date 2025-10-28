@@ -34,7 +34,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Steven Boutcher',
     subtitle: 'QA Automation Engineer | Parkour Coach',
-    description: 'Writing the code devs don\'t want to write.',
+    description: "Writing the code devs don't want to write.",
     image: {
         src: '/honeyz-selfie.png',
         alt: 'Selfie with my wife on a hiking trail in the fall'
@@ -106,9 +106,13 @@ const siteConfig: SiteConfig = {
             href: 'https://linkedin.com/in/stevenboutcher'
         },
         {
-            text: 'Blog',
-            href: 'https://blog.thesocialqa.com/'
+            text: 'Social QA Blog',
+            href: 'https://thesocialqa.hashnode.dev/'
         },
+        {
+            text: 'Door Parkour Blog',
+            href: 'https://door-parkour.beehiiv.com/'
+        }
     ],
     hero: {
         image: {
