@@ -68,8 +68,6 @@ I started noticing an interest in QA job hunting advice, so I pivoted to that in
 
 I revived the newsletter in September 2024 with a new focus: future-proofing your QA career through social networking and community contributions. Essentially, applying entrepreneurial mindset to your career.
 
-<a href="https://thesocialqa.kit.com" target="_blank" rel='noopener noreferrer'>Sign up</a>
-
 <a href="https://thesocialqa.kit.com/profile" target="_blank" rel='noopener noreferrer'>View email archive</a>
 
 ![Social QA newsletter landing page](/social_qa_newsletter.png)
