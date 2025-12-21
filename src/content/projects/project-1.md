@@ -19,7 +19,7 @@ _Primary use case:_ testing apps that rely on capturing receipt images with a ca
 
 ## Try it out
 
-https://steven-the-qa.github.io/receipt-image-generator
+https://receipt-image-generator.netlify.app/
 
 ## View the code
 
