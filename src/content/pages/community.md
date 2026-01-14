@@ -47,6 +47,13 @@ Several small improvements to the Playwright tests & CI workflow
 <a href="https://github.com/eidolon-ai/eidolon/pull/642" target="_blank">View pull request</a>
 ![Pull Request Summary](/eidolon_open_source_1.png)
 
+### freeCodeCamp
+
+fix(api): skip picture validation when unchanged
+
+<a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/64868" target="_blank">View pull request</a>
+![Pull Request Summary](/freecodecamp_open_source_1.png)
+
 <h2 id="section-2"><em>Twitter Spaces</em></h2>
 
 ### Non-Coding Tech Careers
